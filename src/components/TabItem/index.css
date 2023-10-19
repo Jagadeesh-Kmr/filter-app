@@ -1,0 +1,25 @@
+.app-img {
+  width: 80px;
+  height: 80px;
+  margin: 7px;
+}
+
+.tab-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fafbfc;
+  border-radius: 10px;
+  padding: 6px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.app-name {
+  font-family: cursive;
+  font-size: 15px;
+  font-weight: 500;
+  color: #2563eb;
+}
